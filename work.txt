@@ -1,1 +1,2 @@
 workout 1
+workout 2
